@@ -2,6 +2,9 @@ This repository includes code for autonomous exploration under uncertainty via D
 poses, landmarks, and frontiers. Using deep RL significantly reduces computation as the policy can estimate the optimal view instead of explicitly computing it.
 We use the code of original paper wich is available at https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration.
 
+![Environment](https://user-images.githubusercontent.com/82809946/115228604-3b8fac00-a127-11eb-96f0-3b98ec3a5e12.png)
+
+
  Dependency
  
 • Python 3
