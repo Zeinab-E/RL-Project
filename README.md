@@ -26,6 +26,7 @@ We use the code of original paper wich is available at https://github.com/Robust
        mkdir build && cd build
        cmake ..
        sudo make install
+Note: For GTSAM compatability for Python 3 Refer to the following commits:https://bitbucket.org/gtborg/gtsam/commits/0e23f77212477a9146f8844d5e4ddf8d49c346d8
 
 • Pybind11(pybind11 — Seamless operability between C++11 and Python)
 
