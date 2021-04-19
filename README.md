@@ -62,4 +62,5 @@ You can use the following commands to download and compile the package.
 How to run?
 
 • To run the saved policy:
-
+     cd DRL_graph_exploration/scripts
+     python3 test.py
