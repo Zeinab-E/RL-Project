@@ -3,8 +3,11 @@ poses, landmarks, and frontiers. Using deep RL significantly reduces computation
 We use the code of original paper wich is available at https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration.
 
  Dependency
+ 
 • Python 3
+
 • PyTorch
+
 • Pytorch Geometric
  
        pip install torch-scatter -f https://pytorch-geometric.com/whl/torch-1.7.0+cu102.html
