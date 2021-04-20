@@ -65,3 +65,5 @@ How to run?
 
      cd DRL_graph_exploration/scripts
      python3 test.py
+     
+We have added train.py and policy.py under scripts, where we made minor modification to the same code from the original repository. Results on tests using this trained model is shown under the test_result folder.
